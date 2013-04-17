@@ -138,6 +138,7 @@ BlackBerry Smartphone (OS5-7)
 - `./cordova/run blackberry`
 
 Answer 'n' when prompted "Do you have a BlackBerry device connected to your computer? (y/n)"
+
 The application will be installed to the home screen of the simulator. Note, on BlackBerry OS 5 the application is installed in the Downloads folder.
 
 
@@ -175,6 +176,7 @@ BlackBerry Smartphone (OS5-7)
 - `./cordova/run blackberry`
 
 Answer "y" when prompted "Do you have a BlackBerry device connected to your computer? (y/n)"
+
 The application will be installed to the home screen of the device. Note, on BlackBerry OS 5 the application is installed in the Downloads folder.
 
 Additional Information
